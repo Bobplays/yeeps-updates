@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Destructable
+  - CosmeticsOverrideZone
+  - TechWebOverrideZone
+  - DressingRoomOverrideZone
+  - Smoke
+  - Deadly
+  - Footprintable
+  - NoPickup
+  - PromoCodeOverrideZone
+  - RareItemStoreOverrideZone
+  - ItemRestrictionsOverrideZone
+  - HalloweenStoreOverrideZone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Item
+  - Interactor
+  - PlayerAlwaysVisible
+  - Interactable
+  - Scenery
+  - Hallway
+  - GroundPassthrough
+  - Mirror
+  - PlayerTriggerZone
+  - Smoke
+  - LoadingScreen
+  - PlayerWall
+  - LocomotionOnly
+  - MobileInteraction
+  - PlayerNametagTrigger
+  - NoPortal
+  - Radiation
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
